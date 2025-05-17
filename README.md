@@ -1,4 +1,10 @@
-Company: CODTECH IT SOLUTIONS NAME : AMBER CHHETRI INTERN ID : CT04DM1003 DOMAIN : Digital Marketing DURATION : 4 weeks MENTOR : NEELA SANTOSH DESCRIPTION OF TASK 2: Internship_Project_Content_Marketing_Strategy_Amber_Chhetri
+Company: CODTECH IT SOLUTIONS 
+NAME : AMBER CHHETRI 
+INTERN ID : CT04DM1003 
+DOMAIN : Digital Marketing 
+DURATION : 4 weeks 
+MENTOR : NEELA SANTOSH 
+DESCRIPTION OF TASK 2: Internship_Project_Content_Marketing_Strategy_Amber_Chhetri
 Project Description – Content Marketing Strategy for EcoVibe
 
 As part of my internship, I created a comprehensive content marketing strategy for a sustainable lifestyle brand named EcoVibe. The objective was to build brand awareness, drive web traffic, and convert eco-conscious consumers by crafting valuable and engaging content aligned with the brand’s mission.
